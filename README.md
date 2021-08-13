@@ -13,13 +13,6 @@ You will need to take the following steps:
 ```
 python download_playlist_tracks.py
 ```
-
-## **Reminder**
-*Include YoutubeDownloader
-```
-youtube-dl --default-search "ytsearch" --extract-audio --audio-format mp3 --audio-quality 0 -a songs.txt
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
